@@ -1,0 +1,4 @@
+requests
+tqdm
+urljoin
+bs4
