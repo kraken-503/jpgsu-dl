@@ -22,6 +22,6 @@ cd jpgsu-dl
 ```
 
 ### 2. Usage
-'''bash
+```bash
 python3 cfg.py
-'''
+```
