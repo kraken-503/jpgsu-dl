@@ -20,3 +20,8 @@ Perfect for quick experiments, learning web scraping, or grabbing assets for off
 git clone https://github.com/kraken-503/jpgsu-dl.git
 cd jpgsu-dl
 ```
+
+### 2. Usage
+'''bash
+python3 cfg.py
+'''
