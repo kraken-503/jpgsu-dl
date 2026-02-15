@@ -25,3 +25,7 @@ cd jpgsu-dl
 ```bash
 python3 cfg.py
 ```
+<br><br>
+<p align="center">
+  <em>Made with ❤️ by kraken-503</em>
+</p>
